@@ -5,7 +5,7 @@ People with COVID-19 may experience impairing, and sometimes persisting, symptom
 - Feature extraction and selection
 - Different machine learning approaches for classification
 ## Dependencies
-Scipy 1.4.1
+- Scipy 1.4.1
 - scikit-learn 0.24.1
 - imbalanced-learn 0.8.0
 - Librosa 0.8.0
