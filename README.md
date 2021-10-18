@@ -4,6 +4,7 @@ People with COVID-19 may experience impairing, and sometimes persisting, symptom
 ## What Does this Repository Contain
 - Feature extraction and selection
 - Different machine learning approaches for classification
+- Metadata
 ## Dependencies
 - Scipy 1.4.1
 - scikit-learn 0.24.1
